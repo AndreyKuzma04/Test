@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questions>
+	<Question> 
+		<number>1</number>
+		<textq>Какой цвет у неба?</textq>
+		<answers>
+			<a>
+				<text> Красный </text>
+				<corr> 0 </corr>
+			</a>
+			<b>
+				<text> Зеленый </text>
+				<corr> 0 </corr>
+			</b>
+			<c>
+				<text> Голубой </text>
+				<corr> 1 </corr>
+			</c>
+			<d>
+				<text> Фиолетовый </text>
+				<corr> 0 </corr>
+			</d>
+		</answers>
+	</Question>
+	<Question> 
+		<number>2</number>
+		<textq>Сколько ног у кошки? </textq>
+		<answers>
+			<a>
+				<text> 1 </text>
+				<corr> 0 </corr>
+			</a>
+			<b>
+				<text> 2 </text>
+				<corr> 0 </corr>
+			</b>
+			<c>
+				<text> 3 </text>
+				<corr> 0 </corr>
+			</c>
+			<d>
+				<text> 4 </text>
+				<corr> 1 </corr>
+			</d>
+		</answers>
+	</Question>
+	<Question> 
+		<number>3</number>
+		<textq>Формат файла из которого взяты вопросы </textq>
+		<answers>
+			<a>
+				<text> .txt </text>
+				<corr> 0 </corr>
+			</a>
+			<b>
+				<text> .xml </text>
+				<corr> 1 </corr>
+			</b>
+			<c>
+				<text> .exe </text>
+				<corr> 0 </corr>
+			</c>
+			<d>
+				<text> .jar </text>
+				<corr> 0 </corr>
+			</d>
+		</answers>
+	</Question>
+	<Question> 
+		<number>4</number>
+		<textq>Самая большая по площади страна </textq>
+		<answers>
+			<a>
+				<text> Канада </text>
+				<corr> 0 </corr>
+			</a>
+			<b>
+				<text> Китай </text>
+				<corr> 0 </corr>
+			</b>
+			<c>
+				<text> Россия </text>
+				<corr> 1 </corr>
+			</c>
+			<d>
+				<text> США </text>
+				<corr> 0 </corr>
+			</d>
+		</answers>
+	</Question>
+</Questions>
